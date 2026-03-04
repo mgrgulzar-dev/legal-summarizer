@@ -8,7 +8,7 @@ st.set_page_config(page_title="Nyaya AI 2026", page_icon="⚖️")
 st.title("⚖️ Supreme Court Summarizer")
 
 # --- 2. AI CONFIG ---
-API_KEY = "AIzaSyBFP4Ek-xX9Wt4ujuf4liLhZYy_9HFsjKY" # Replace this!
+API_KEY = "AIzaSyBa1kqdg3yjKyEojjUFD9LHz2k0IUE1_WA" # Replace this!
 client = genai.Client(api_key=API_KEY)
 
 # --- 3. SESSION STATE ---
